@@ -9,6 +9,29 @@ This immigration services web application was developed as a group project durin
 - Bootstrap: Offers responsive design and pre-built UI components.
 - JavaScript: Adds interactivity and dynamic behavior to the site.
 - Angular: A powerful framework used to build a scalable, single-page application with organized code and data handling.
+# Features
+- User-Friendly Interface: Clean and intuitive design for easy navigation.
+- Information Pages: Detailed sections about visa types, eligibility, and migration steps.
+- Responsive Design: Optimized for desktops, tablets, and mobile devices using Bootstrap.
+- Search Functionality: Allows users to quickly find relevant immigration information.
+- Form Submission: Interactive forms for inquiries or eligibility assessments.
+- Single Page Application (SPA): Seamless navigation without full page reloads, built with Angular.
+- Single Page Application (SPA): Seamless navigation without full page reloads, built with Angular.
+- Modular Code Structure: Easy to maintain and scale with Angular components and services.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
